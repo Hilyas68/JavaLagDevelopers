@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaLag Developers</string>
+    <string name="internet">No internet connection, check your device internet connectivity</string>
+</resources>
